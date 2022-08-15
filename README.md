@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Kangwa,
-- 👀 I’m interested in Learning 
-- 🌱 I’m currently learning SE with ALX for the first time
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Kangwa, an Auditor by profession
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Software Engineering for the first time with ALX.
+- 💞️ I’m looking to collaborate on different projects that will help me grow.
 - 📫 How to reach me ...
 
 <!---
